@@ -1,0 +1,30 @@
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\bin\Debug\Mybibl.exe.config
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\bin\Debug\Mybibl.exe
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\bin\Debug\Mybibl.pdb
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.csprojAssemblyReference.cache
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.csproj.CoreCompileInputs.cache
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.exe
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.pdb
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\bin\Debug\MyLib.dll
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\bin\Debug\MyLib.pdb
+D:\Калмыков Данил\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.csproj.CopyComplete
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\bin\Debug\Mybibl.exe.config
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\bin\Debug\Mybibl.exe
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\bin\Debug\Mybibl.pdb
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\bin\Debug\MyLib.dll
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\bin\Debug\MyLib.pdb
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.csproj.AssemblyReference.cache
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.csproj.CoreCompileInputs.cache
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.csproj.CopyComplete
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.exe
+D:\УМСФ\2 курс\2-й семестр\Крос-платформене програмування\Лаб 1\Lab 1\MyLib\Mybibl\obj\Debug\Mybibl.pdb
+C:\Users\Валерия\Desktop\MyLib\Mybibl\bin\Debug\Mybibl.exe.config
+C:\Users\Валерия\Desktop\MyLib\Mybibl\bin\Debug\Mybibl.exe
+C:\Users\Валерия\Desktop\MyLib\Mybibl\bin\Debug\Mybibl.pdb
+C:\Users\Валерия\Desktop\MyLib\Mybibl\bin\Debug\MyLib.dll
+C:\Users\Валерия\Desktop\MyLib\Mybibl\bin\Debug\MyLib.pdb
+C:\Users\Валерия\Desktop\MyLib\Mybibl\obj\Debug\Mybibl.csprojAssemblyReference.cache
+C:\Users\Валерия\Desktop\MyLib\Mybibl\obj\Debug\Mybibl.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\MyLib\Mybibl\obj\Debug\Mybibl.csproj.CopyComplete
+C:\Users\Валерия\Desktop\MyLib\Mybibl\obj\Debug\Mybibl.exe
+C:\Users\Валерия\Desktop\MyLib\Mybibl\obj\Debug\Mybibl.pdb
